@@ -17,12 +17,12 @@ This script helps to identify authentication bypass or access control vulnerabil
 
 ### Run the script:
 ```bash
-bash header-manipulation-checker.sh <URL>
+./auth-bypass.sh <URL>
 ```
 
 #### Example:
 ```bash
-bash header-manipulation-checker.sh https://example.com
+./auth-bypass.sh https://example.com
 ```
 
 This will:
